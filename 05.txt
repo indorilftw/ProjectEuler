@@ -1,0 +1,1 @@
+Compute the prime factors of each number from 2..20 and multiply the highest power of each one.

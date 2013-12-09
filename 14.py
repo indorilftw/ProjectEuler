@@ -1,5 +1,3 @@
-#!/usr/local/bin/python
-
 maxSeq = 1
 maxNum = 1
 for num in xrange(2,1000000):
